@@ -1,0 +1,4 @@
+
+To make the necessary changes to part A to take a split payment, a new Class would need to be created that takes two or more new payment methods.
+These payment method classes would also have to have a new attribute "amount" for how much is being paid with them. Then the new class would
+process both methods with the desired amounts.
