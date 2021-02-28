@@ -1,0 +1,13 @@
+Create shape R with corner at (200, 200), width=50 and height=100
+R appears at time t=1 and disappears at time t=100
+
+Create shape C with corner at (440, 70), width=120 and height=60
+C appears at time t=6 and disappears at time t=100
+
+R moves from (200, 200) to (300, 300) from time 10 to 50.
+C moves from (440, 70) to (440, 250) from time 20 to 50.
+C moves from (440, 250) to (440, 370) from time 50 to 70.
+C changes color from (0, 0, 255) to (0, 170, 85) from time 50 to 70.
+R scales from width 50 and height 100 to width 25 and height 100 from time 51 to 70.
+R moves from (300, 300) to (200, 200) from time 70 to 100.
+C changes color from (0, 170, 85) to (0, 255, 0) from time 70 to 80.
